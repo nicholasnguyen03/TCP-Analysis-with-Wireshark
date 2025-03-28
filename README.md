@@ -3,7 +3,7 @@
 In this project, Pamela Uriarte and I explored the Transmission Control Protocol (TCP) using Wireshark. We captured a live trace by uploading a file to a remote server, then analyzed both our trace and a provided one to answer detailed questions about TCP behavior.
 
 ## 👥 Group Members
-- Nicholas
+- Nicholas Nguyen
 - Pamela Uriarte
 
 ## 🔍 What We Did
